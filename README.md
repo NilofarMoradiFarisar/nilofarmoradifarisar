@@ -59,8 +59,8 @@ My research combines:
 
 ### 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/nilofar-moradifarisar/)  
-- 📧 [Email](nilofar.moradi.farisar@gmail.com)  
+- 🌐 [[LinkedIn](https://www.linkedin.com/nilofar-moradifarisar/)  ](https://www.linkedin.com/in/nilofar-moradifarisar/)
+- 📧 nilofar.moradi.farisar@gmail.com 
 
 
 ---
