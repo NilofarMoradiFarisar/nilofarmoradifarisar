@@ -49,7 +49,7 @@ My research combines:
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, Bash, Markdown  
+- **Languages**: Python
 - **Libraries**: PyTorch, HuggingFace Transformers, Scikit-learn  
 - **Frameworks**: LangChain, Qdrant, Sentence Transformers  
 - **Tools**: Colab, Git, Docker, LaTeX  
@@ -59,9 +59,9 @@ My research combines:
 
 ### 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 [Email](mailto:your.email@example.com)  
-- 📜 [CV / ResearchGate / Personal Website](#) *(optional)*
+- 🌐 [LinkedIn](https://www.linkedin.com/nilofar-moradifarisar/)  
+- 📧 [Email](nilofar.moradi.farisar@gmail.com)  
+
 
 ---
 
